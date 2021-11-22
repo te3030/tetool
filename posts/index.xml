@@ -1,28 +1,28 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有Post - 竹智熊猫</title>
-        <link>/github.tetool.cn/posts/</link>
+        <link>https://github.tetool.cn/posts/</link>
         <description>所有Post | 竹智熊猫</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 18 Nov 2021 14:46:18 &#43;0800</lastBuildDate><atom:link href="/github.tetool.cn/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 18 Nov 2021 14:46:18 &#43;0800</lastBuildDate><atom:link href="https://github.tetool.cn/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Sed命令</title>
-    <link>/github.tetool.cn/sed/</link>
+    <link>https://github.tetool.cn/sed/</link>
     <pubDate>Fri, 19 Nov 2021 16:17:35 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/github.tetool.cn/sed/</guid>
+    <guid>https://github.tetool.cn/sed/</guid>
     <description><![CDATA[linux文本替换sed]]></description>
 </item><item>
     <title>redis6.0集群搭建</title>
-    <link>/github.tetool.cn/redis_6.0_centralization/</link>
+    <link>https://github.tetool.cn/redis_6.0_centralization/</link>
     <pubDate>Fri, 19 Nov 2021 09:53:23 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/github.tetool.cn/redis_6.0_centralization/</guid>
+    <guid>https://github.tetool.cn/redis_6.0_centralization/</guid>
     <description><![CDATA[<p>了解如何在 <strong>LoveIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
 </item><item>
     <title>Hugo 功能简介</title>
-    <link>/github.tetool.cn/hugo/</link>
+    <link>https://github.tetool.cn/hugo/</link>
     <pubDate>Thu, 18 Nov 2021 14:36:53 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>/github.tetool.cn/hugo/</guid>
+    <guid>https://github.tetool.cn/hugo/</guid>
     <description><![CDATA[下载 二进制包下载 https://github.com/spf13/hugo/releases 初始项目 1 2 # 当前目录下初始化项目 hugo new site . 创建文章 1 hugo new about/_index.md 换肤 1 2 3 cd themes # git clone https://github.com/spf13/hyde.git git clone https://gitlab.com/toryanderson/hugo-icarus.git 配置hugo-icarus皮肤 1 2 3]]></description>
 </item></channel>
 </rss>
