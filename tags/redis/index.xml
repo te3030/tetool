@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>redis - 标签 - 竹智熊猫</title>
+        <link>/github.tetool.cn/tags/redis/</link>
+        <description>redis - 标签 - 竹智熊猫</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 19 Nov 2021 09:53:23 &#43;0800</lastBuildDate><atom:link href="/github.tetool.cn/tags/redis/" rel="self" type="application/rss+xml" /><item>
+    <title>redis6.0集群搭建</title>
+    <link>/github.tetool.cn/redis_6.0_centralization/</link>
+    <pubDate>Fri, 19 Nov 2021 09:53:23 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/github.tetool.cn/redis_6.0_centralization/</guid>
+    <description><![CDATA[<p>了解如何在 <strong>LoveIt</strong> 主题中快速, 直观地创建和组织内容.</p>]]></description>
+</item></channel>
+</rss>
