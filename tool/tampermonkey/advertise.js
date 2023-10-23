@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         取消非不必要广告
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
@@ -36,6 +36,11 @@ $("#blog_detail_zk_collection").remove()
 $("#articleSearchTip").remove()
 $("#hide-article-box").remove()
 $(".hide-article-box").remove()
+$(".passport-login-container").remove()
+$(".passport-auto-tip-login-container").remove()
+$(".csdn-side-toolbar").remove()
+$(".skill-tree-box").remove()
+$(".passport-login-container").remove()
   $("#content_views").unbind("mouseup").unbind("mousedown");
 
     function copy(e){
