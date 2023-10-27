@@ -23,6 +23,7 @@ $("#recommendNps").remove()
 $("#csdn-toolbar").remove()
 $("#toolBarBox").remove()
   $(".nodata .container").css("width","100%");
+  $(".nodata .container").css("margin-right","0px");
   $("body").css("min-width","0px");
   $(".hljs-button").remove()
   $("#content_views pre").css("-webkit-user-select","auto");
