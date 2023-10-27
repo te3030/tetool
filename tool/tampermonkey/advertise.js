@@ -41,6 +41,7 @@ $(".passport-auto-tip-login-container").remove()
 $(".csdn-side-toolbar").remove()
 $(".skill-tree-box").remove()
 $(".passport-login-container").remove()
+$("#toolbarBox").remove()
   $("#content_views").unbind("mouseup").unbind("mousedown");
 
     function copy(e){
