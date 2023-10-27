@@ -41,9 +41,9 @@ $(".passport-login-container").remove()
 $(".passport-auto-tip-login-container").remove()
 $(".csdn-side-toolbar").remove()
 $(".skill-tree-box").remove()
-$(".passport-login-container").remove()
 $("#toolbarBox").remove()
-  $("#content_views").unbind("mouseup").unbind("mousedown");
+$(".follow-nickName").remove()
+$("#content_views").unbind("mouseup").unbind("mousedown");
 
     function copy(e){
 		// clipboardData 对象是为通过编辑菜单、快捷菜单和快捷键执行的编辑操作所保留的，也就是你复制或者剪切内容
@@ -84,6 +84,7 @@ $("#toolbarBox").remove()
                  break;
             }
          }
+        $(".passport-login-container").remove()
 
     },1000)
 
